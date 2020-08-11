@@ -12,7 +12,7 @@
 #
 ######  end 说明  ######
 
-name: Run it on action
+name: Run it on action izrt
 
 on:
   push:
